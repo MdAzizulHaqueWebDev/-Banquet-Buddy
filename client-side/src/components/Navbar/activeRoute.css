@@ -1,0 +1,7 @@
+/** @format */
+
+.active {
+	background-color: deepskyblue;
+	border-radius: 30%;
+    font-weight: 600;
+}
